@@ -2,6 +2,6 @@
 
 # comando diff
 
-*comand pull
+* comand pull
 * comand push
 * comand fetch 
