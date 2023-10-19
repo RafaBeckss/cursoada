@@ -2,3 +2,4 @@
 
 # comando diff
 
+*comand pull
